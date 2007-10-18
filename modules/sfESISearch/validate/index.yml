@@ -1,0 +1,5 @@
+fillin:
+  enabled: on
+fields:
+  hiddenfield:
+    required: yes
